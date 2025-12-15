@@ -1,16 +1,17 @@
-# bai_tap_2
 
-A new Flutter project.
+---
 
-## Getting Started
+### 🔹 Thực hành 03
+**Yêu cầu:**  
+- Nhập hai số
+- Chọn phép toán (+, -, *, /)
+- Hiển thị kết quả ngay khi thay đổi dữ liệu hoặc phép toán
 
-This project is a starting point for a Flutter application.
+**Chức năng đã thực hiện:**
+- Nhập 2 số từ `TextField`
+- Chọn phép toán bằng các nút tương tác
+- Quản lý trạng thái (state)
+- Tính toán và hiển thị kết quả ngay lập tức
+- Nút phép toán được chọn có viền nổi bật
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Thư mục:**  
